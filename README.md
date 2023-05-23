@@ -30,7 +30,12 @@ I'm an indie full-stack developer and content creator building my version of the
  
 <a href="https://www.instagram.com/404kidsseeghosts/" alt="Instagram">
     <img src="https://img.shields.io/badge/Follow-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
+
+<a href="https://t.me/isaiahsystem" alt="Telegram">
+    <img src="https://img.shields.io/badge/Join-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088CC"/></a>
   
+<a href="https://kidsseeghosts.substack.com/" alt="Substack">
+    <img src="https://img.shields.io/badge/Subscribe-%23F15746.svg?&style=for-the-badge&logo=substack&logoColor=white&labelColor=E33200"/></a>
   ---
 
 ## Tools
