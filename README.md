@@ -1,71 +1,3 @@
-## :link: Links
-
-<p align="center">
-  <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-  <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
-  <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
-  <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://www.mixcloud.com/matyo91"><img src="https://img.icons8.com/windows/96/000000/mixcloud.png" alt="mixcloud"/></a>
-  <a href="https://keybase.io/matyo91"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a>
-  <a href="https://steamcommunity.com/id/matyo91"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
-  <a href="https://vk.com/matyo91"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
-  <a href="https://open.spotify.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-  <a href="https://tripadvisor.com/members/matyo91"><img src="https://img.icons8.com/color/96/000000/tripadvisor.png" alt="tripadvisor"/></a>
-  <a href="https://www.bandcamp.com/matyo91"><img src="https://img.icons8.com/nolan/96/bandcamp-button.png" alt="bandcamp"/></a>
-  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <a href="https://connect.symfony.com/profile/matyo91"><img src="https://img.icons8.com/color/96/000000/symfony.png" alt="symfony"/></a>
-  <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
-  <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
-</p>
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-## Skills
-
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
-
-### Software
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
-[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
-[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
-
-<p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
-    </b>
-</p>
-
 # 404 KIDS SEE GHOSTS
 
 <!-- <p align="center">
@@ -100,7 +32,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://www.instagram.com/404kidsseeghosts/" alt="Instagram">
     <img src="https://img.shields.io/badge/Follow-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
   
-## 
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f)
 <a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
@@ -109,31 +40,29 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 ## Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-##
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="30px" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/e1ecdd54-10dd-4a6d-bf06-fe7d25b6974a" alt="404KSG" width="30" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/d69f9f7b-a4c4-4a99-93f2-29ae69d10d24" alt="404KSG" width="30" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/eb5ee046-66fd-47b6-9a63-4593b2dae712" alt="404KSG" width="30" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/324a905f-392f-40fc-a413-2f9ee44bb52a" alt="404KSG" width="30" height="30"/></a>
+  
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
+[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
+[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 ## Latest YouTube Videos
 
