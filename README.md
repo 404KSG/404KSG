@@ -11,7 +11,10 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
-# 
+#
+| <img src="https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=dark" alt="Forrest's GitHub stats" width="100%" /> | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" width="100%" /></a> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 <p align="left">
   
    <a href="https://twitter.com/404KSG" alt="Twitter">
@@ -39,6 +42,3 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 </a>
-
-| <img src="https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=dark" alt="Forrest's GitHub stats" width="100%" /> | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" width="100%" /></a> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
