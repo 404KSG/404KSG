@@ -40,7 +40,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## My Toolbox
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="30" height="30"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="30px" height="30"/></a>
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/e1ecdd54-10dd-4a6d-bf06-fe7d25b6974a" alt="404KSG" width="30" height="30"/></a>
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/d69f9f7b-a4c4-4a99-93f2-29ae69d10d24" alt="404KSG" width="30" height="30"/></a>
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/eb5ee046-66fd-47b6-9a63-4593b2dae712" alt="404KSG" width="30" height="30"/></a>
