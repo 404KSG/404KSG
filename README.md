@@ -15,11 +15,11 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <p align="left">
   
+   <a href="https://twitter.com/404KSG" alt="Twitter">
+    <img src="https://img.shields.io/badge/Follow-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=007ACC"/></a>
+  
   <a href="https://t.me/isaiahsystem" alt="Telegram">
     <img src="https://img.shields.io/badge/Join-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088CC"/></a>
-  
-  <a href="https://twitter.com/404KSG" alt="Twitter">
-    <img src="https://img.shields.io/badge/Follow-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=007ACC"/></a>
   
 <a href="https://kidsseeghosts.substack.com/" alt="Substack">
     <img src="https://img.shields.io/badge/Subscribe-%23F15746.svg?&style=for-the-badge&logo=substack&logoColor=white&labelColor=E33200"/></a>
