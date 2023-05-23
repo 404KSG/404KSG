@@ -1,3 +1,5 @@
+
+
 # 👾 404 KIDS SEE GHOSTS
 
 <!-- <p align="center">
@@ -12,15 +14,24 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+    
+ <a href="https://www.youtube.com/channel/UC5muxLiDOvS-FIHAvD0YHkw?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC5muxLiDOvS-FIHAvD0YHkw?color=%23FF0000&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CC0000"/></a>
+<a href="https://www.youtube.com/channel/UC5muxLiDOvS-FIHAvD0YHkw">
+   
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=5865F2&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  
+<a href="https://twitter.com/404KSG" alt="Twitter">
+    <img src="https://img.shields.io/badge/Follow-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=007ACC"/></a>
+
+<a href="https://medium.com/@404KSG" alt="Medium">
+    <img src="https://img.shields.io/badge/Follow-%23333333.svg?&style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/></a>
+ 
+<a href="https://www.instagram.com/404kidsseeghosts/" alt="Instagram">
+    <img src="https://img.shields.io/badge/Follow-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
+  
+  ---
 
 ## Tools
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="40" height="40"/></a>
