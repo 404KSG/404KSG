@@ -25,9 +25,6 @@ I'm an indie full-stack developer and content creator building my version of the
   
 <a href="https://kidsseeghosts.substack.com/" alt="Substack">
     <img src="https://img.shields.io/badge/Subscribe-%23F15746.svg?&style=for-the-badge&logo=substack&logoColor=white&labelColor=E33200"/></a>
-  
-  <a href="https://medium.com/@404KSG" alt="Medium">
-    <img src="https://img.shields.io/badge/Follow-%23333333.svg?&style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/></a>
     
  <a href="https://www.youtube.com/@404KSG" alt="YouTube">
     <img src="https://img.shields.io/badge/Subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000"/></a>
