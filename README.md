@@ -14,31 +14,26 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
 <p align="left">
-    
- <a href="https://www.youtube.com/channel/UC5muxLiDOvS-FIHAvD0YHkw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC5muxLiDOvS-FIHAvD0YHkw?color=%23FF0000&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CC0000"/></a>
-<a href="https://www.youtube.com/channel/UC5muxLiDOvS-FIHAvD0YHkw">
-   
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=5865F2&logo=discord&logoColor=white&style=for-the-badge"/></a>
   
-<a href="https://twitter.com/404KSG" alt="Twitter">
+  <a href="https://t.me/isaiahsystem" alt="Telegram">
+    <img src="https://img.shields.io/badge/Join-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088CC"/></a>
+  
+  <a href="https://twitter.com/404KSG" alt="Twitter">
     <img src="https://img.shields.io/badge/Follow-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=007ACC"/></a>
-
-<a href="https://medium.com/@404KSG" alt="Medium">
+  
+<a href="https://kidsseeghosts.substack.com/" alt="Substack">
+    <img src="https://img.shields.io/badge/Subscribe-%23F15746.svg?&style=for-the-badge&logo=substack&logoColor=white&labelColor=E33200"/></a>
+  
+  <a href="https://medium.com/@404KSG" alt="Medium">
     <img src="https://img.shields.io/badge/Follow-%23333333.svg?&style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/></a>
+    
+ <a href="https://www.youtube.com/@404KSG" alt="YouTube">
+    <img src="https://img.shields.io/badge/Subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000"/></a>
  
 <a href="https://www.instagram.com/404kidsseeghosts/" alt="Instagram">
     <img src="https://img.shields.io/badge/Follow-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
 
-<a href="https://t.me/isaiahsystem" alt="Telegram">
-    <img src="https://img.shields.io/badge/Join-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088CC"/></a>
-  
-<a href="https://kidsseeghosts.substack.com/" alt="Substack">
-    <img src="https://img.shields.io/badge/Subscribe-%23F15746.svg?&style=for-the-badge&logo=substack&logoColor=white&labelColor=E33200"/></a>
-  ---
-
-## Tools
+## MY TOOLBOX
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="40" height="40"/></a>
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/e1ecdd54-10dd-4a6d-bf06-fe7d25b6974a" alt="404KSG" width="40" height="40"/></a>
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/d69f9f7b-a4c4-4a99-93f2-29ae69d10d24" alt="404KSG" width="40" height="40"/></a>
