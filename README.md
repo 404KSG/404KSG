@@ -40,7 +40,5 @@ I'm an indie full-stack developer and content creator building my version of the
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 </a>
 
-#
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=dark)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+| <img src="https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=dark" alt="Forrest's GitHub stats" width="100%" /> | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" width="100%" /></a> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
