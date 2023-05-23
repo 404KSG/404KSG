@@ -34,8 +34,10 @@ I'm an indie full-stack developer and content creator building my version of the
     <img src="https://img.shields.io/badge/Follow-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
   
 ## Support
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/404KIDSSEEGHOSTS) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/404KIDSSEEGHOSTS) 
-
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f)
+<a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+</a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
