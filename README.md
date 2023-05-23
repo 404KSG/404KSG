@@ -1,7 +1,10 @@
 # 💫 About Me:
 I am a sociologist, I love technology, society and art, and I focus on them in between.
 
-
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/404KSG/count.svg" />
+</p> -->
 
 <p align="center">
   <a href="https://space.bilibili.com/12767066">
