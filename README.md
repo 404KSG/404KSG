@@ -1,10 +1,17 @@
 # 👾 404 KIDS SEE GHOSTS
 
-**`I am a sociologist, I love technology, society and art, and I focus on them in between.`**
+`I am a sociologist, I love technology, society and art, and I focus on them in between.`
+
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/404KSG/count.svg" />
+</p> -->
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:404KSG"></a>
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
-   <p align="left">
+<p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
@@ -14,17 +21,6 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/404KSG/count.svg" />
-</p> -->
-
-
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:404KSG"></a>
-
 
 ## Tools
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="40" height="40"/></a>
