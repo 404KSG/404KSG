@@ -40,11 +40,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/eb5ee046-66fd-47b6-9a63-4593b2dae712" alt="404KSG" width="40" height="40"/></a>
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/324a905f-392f-40fc-a413-2f9ee44bb52a" alt="404KSG" width="40" height="40"/></a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/404kidsseeghosts/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@404KSG) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/404KSG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@404KSG) 
-
-
-## 💰 You can help me by Donating
+## SUPPORT
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/404KIDSSEEGHOSTS) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/404KIDSSEEGHOSTS) 
 
   
