@@ -1,6 +1,6 @@
 ### Hi I'm 404KSG 👋
 
-<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=404KSG&show_icons=true&icon_color=0366d6&theme=dark,prs&include_all_commits=true&count_private=true" alt="404KSG's github stats"/>
+![](https://github-readme-stats.vercel.app/api?username=404KSG&theme=dark)
 
 A lovely web developer based in UK, currently working on [RSS3](https://rss3.io/) and [Crossbell](https://crossbell.io/) at [Natural Selection Labs](https://github.com/NaturalSelectionLabs).
 
