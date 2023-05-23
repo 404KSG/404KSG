@@ -1,14 +1,13 @@
 # 💫 About Me:
 I am a sociologist, I love technology, society and art, and I focus on them in between.
+![42d6e342c12e59fe91a1]()
+
 ## Tools
-
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-
-<a href="https://openai.com/" target="_blank"> <img src="https://openai.com/favicon.ico" alt="openai" width="40" height="40"/> </a> 
-<a href="https://roamresearch.com/" target="_blank"> <img src="https://roamresearch.com/favicon.ico" alt="roamresearch" width="40" height="40"/> </a> 
-<a href="https://inoreader.com/" target="_blank"> <img src="https://inoreader.com/favicon.ico" alt="inoreader" width="40" height="40"/> </a> 
-<a href="https://readwise.io/" target="_blank"> <img src="https://readwise.io/favicon.ico" alt="readwise" width="40" height="40"/> </a> 
-<a href="https://remnote.io/" target="_blank"> <img src="https://remnote.io/favicon.ico" alt="remnote" width="40" height="40"/> </a> 
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="40" height="40"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/e1ecdd54-10dd-4a6d-bf06-fe7d25b6974a" alt="404KSG" width="40" height="40"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/d69f9f7b-a4c4-4a99-93f2-29ae69d10d24" alt="404KSG" width="40" height="40"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/eb5ee046-66fd-47b6-9a63-4593b2dae712" alt="404KSG" width="40" height="40"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/324a905f-392f-40fc-a413-2f9ee44bb52a" alt="404KSG" width="40" height="40"/></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/404kidsseeghosts/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@404KSG) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/404KSG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@404KSG) 
