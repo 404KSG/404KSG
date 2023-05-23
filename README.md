@@ -35,7 +35,3 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
     <img src="https://img.shields.io/badge/BuyMeACoffee-ffdd00?style=for-the-badge&logo=BuyMeACoffee&logoColor=000000" alt="BuyMeACoffee"/>
 </a>
-  
-<a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-</a>
