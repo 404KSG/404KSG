@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am a sociologist, I love technology, society and art, and I focus on them in between.
+![下载 (8)](https://github.com/404KSG/404KSG/assets/80526156/c6feb348-e3ed-408c-b49c-92d6d5d754fc)
+![下载 (9)](https://github.com/404KSG/404KSG/assets/80526156/94ab2b83-32ae-40e4-919e-a1caff77179e)
 
 
 ## 🌐 Socials:
