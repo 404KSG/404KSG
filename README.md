@@ -14,7 +14,7 @@ I'm an indie full-stack developer and content creator building my version of the
 #
 <div class="img-container">
   <img src="https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=dark" alt="Forrest's GitHub stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&card_width=403" alt="GitHub Streak" /></a>
 </div>
 
 ## Contact and Support
