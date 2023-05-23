@@ -1,13 +1,13 @@
 # 👾 404 KIDS SEE GHOSTS
 
-`I am a sociologist, I love technology, society and art, and I focus on them in between.`
-
 <!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/404KSG/count.svg" />
 </p> -->
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:404KSG"></a>
+  
+`I am a sociologist, I love technology, society and art, and I focus on them in between.`
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
