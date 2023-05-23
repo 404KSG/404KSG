@@ -1,6 +1,6 @@
 
 
-# 👾 404 KIDS SEE GHOSTS
+# 404 KIDS SEE GHOSTS
 
 <!-- <p align="center">
   Visitor count<br>
