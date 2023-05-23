@@ -32,7 +32,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://www.instagram.com/404kidsseeghosts/" alt="Instagram">
     <img src="https://img.shields.io/badge/Follow-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
   
-  <a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
+<a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
     <img src="https://img.shields.io/badge/BuyMeACoffee-ffdd00?style=for-the-badge&logo=BuyMeACoffee&logoColor=white" alt="BuyMeACoffee"/>
 </a>
   
