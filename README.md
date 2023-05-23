@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a sociologist, I love technology, society and art, and I focus on them in between.
-![GY7_462m_400x400 (1)]()
+
+
 
 ## Tools
 <a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="40" height="40"/></a>
