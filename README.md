@@ -4,8 +4,11 @@ I am a sociologist, I love technology, society and art, and I focus on them in b
 
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 
+<a href="https://openai.com/" target="_blank"> <img src="https://openai.com/favicon.ico" alt="openai" width="40" height="40"/> </a> 
 <a href="https://roamresearch.com/" target="_blank"> <img src="https://roamresearch.com/favicon.ico" alt="roamresearch" width="40" height="40"/> </a> 
-
+<a href="https://inoreader.com/" target="_blank"> <img src="https://inoreader.com/favicon.ico" alt="inoreader" width="40" height="40"/> </a> 
+<a href="https://readwise.io/" target="_blank"> <img src="https://readwise.io/favicon.ico" alt="readwise" width="40" height="40"/> </a> 
+<a href="https://remnote.io/" target="_blank"> <img src="https://remnote.io/favicon.ico" alt="remnote" width="40" height="40"/> </a> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/404kidsseeghosts/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@404KSG) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/404KSG) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@404KSG) 
