@@ -13,6 +13,7 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
+# 
 <p align="left">
   
    <a href="https://twitter.com/404KSG" alt="Twitter">
@@ -33,20 +34,13 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://www.instagram.com/404kidsseeghosts/" alt="Instagram">
     <img src="https://img.shields.io/badge/Follow-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
   
-## Support
+## 
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f)
 <a href="https://www.notion.so/Buy-Me-a-Coffee-8aace3a4e782469c8a7be1fc7e50184f" target="_blank">
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 </a>
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## My Toolbox
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="30px" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/e1ecdd54-10dd-4a6d-bf06-fe7d25b6974a" alt="404KSG" width="30" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/d69f9f7b-a4c4-4a99-93f2-29ae69d10d24" alt="404KSG" width="30" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/eb5ee046-66fd-47b6-9a63-4593b2dae712" alt="404KSG" width="30" height="30"/></a>
-<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/324a905f-392f-40fc-a413-2f9ee44bb52a" alt="404KSG" width="30" height="30"/></a>
+
 
 ## Languages and Tools
 
@@ -68,9 +62,14 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+##
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/93c72e84-5329-49c4-b344-75275e24355d" alt="404KSG" width="30px" height="30"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/e1ecdd54-10dd-4a6d-bf06-fe7d25b6974a" alt="404KSG" width="30" height="30"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/d69f9f7b-a4c4-4a99-93f2-29ae69d10d24" alt="404KSG" width="30" height="30"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/eb5ee046-66fd-47b6-9a63-4593b2dae712" alt="404KSG" width="30" height="30"/></a>
+<a href="https://github.com/404KSG/404KSG" target="_blank"><img src="https://github.com/404KSG/404KSG/assets/80526156/324a905f-392f-40fc-a413-2f9ee44bb52a" alt="404KSG" width="30" height="30"/></a>
 
-### 📺 Latest YouTube Videos
+## Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.youtube.com/watch?v=sQDvkd2wtxU)
