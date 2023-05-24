@@ -13,7 +13,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 <div class="img-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=404KSG&show_icons=true&theme=dark&card_width=400" alt="Forrest's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=404KSG&show_icons=true&theme=green&card_width=400" alt="404KSG's GitHub stats" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=404KSG&theme=dark&card_width=400" alt="GitHub Streak" /></a>
 </div>
 
