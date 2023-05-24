@@ -7,9 +7,9 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:404KSG"></a>
   
-**`I love you, Internet.`**
+**`A TIME TRAVELER FROM THE FUTURE`**
 
-**I'm a sociologist and I'm interested in technology, society, art and what's between them. I love the internet and technology, so I curate some content on Github, including my [General Workflow Paradigm](https://t.me/isaiahsystem/756), it's split into three repositories: [feed-garden](https://github.com/404KSG/feed-garden), [all-about-digital-garden](https://github.com/404KSG/all-about-digital-garden), and [prompt-garden](https://github.com/404KSG/prompt-garden) for AI. I focus on deep connections, such as AI and its social impact, so I created [ai-humanities](https://github.com/404KSG/ai-humanities).**
+**I'm interested in technology, society, art and what's between them. I love the internet and technology, so I curate some content on Github, including my [General Workflow Paradigm](https://t.me/isaiahsystem/756), it's split into three repositories: [feed-garden](https://github.com/404KSG/feed-garden), [all-about-digital-garden](https://github.com/404KSG/all-about-digital-garden), and [prompt-garden](https://github.com/404KSG/prompt-garden) for AI. I focus on deep connections, such as AI and its social impact, so I created [ai-humanities](https://github.com/404KSG/ai-humanities).**
 
 #
 <div class="img-container">
