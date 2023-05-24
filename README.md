@@ -9,7 +9,7 @@
   
 `I love you, Internet.`
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm a sociologist and I'm interested in technology, society, art and what's between them. I love the internet and technology, and I curate some content on Github, including my [General Workflow Paradigm](https://t.me/isaiahsystem/756), so it's split into three repositories: [feed-garden](https://github.com/404KSG/feed-garden), [all-about-digital-garden](https://github.com/404KSG/all-about-digital-garden), and [prompt-garden](https://github.com/404KSG/prompt-garden) for AI. I focus on deep connections on AI and its social impact, so I created [ai-humanities](https://github.com/404KSG/ai-humanities).
 
 #
 <div class="img-container">
