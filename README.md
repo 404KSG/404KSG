@@ -9,7 +9,12 @@
   
 **`A TIME TRAVELER FROM THE FUTURE`**
 
-**I'm interested in science, society, art and what's between them. I love the internet and technology, I curate some content on Github, including my [General Workflow Paradigm](https://t.me/isaiahsystem/756), it's split into three repositories: [feed-garden](https://github.com/404KSG/feed-garden), [all-about-digital-garden](https://github.com/404KSG/all-about-digital-garden), and [prompt-garden](https://github.com/404KSG/prompt-garden) for AI. I focus on deep connections, such as AI and its social impact, so I created [ai-humanities](https://github.com/404KSG/ai-humanities).**
+**I'm interested in science, society, art and what's between them. I love the internet and technology, I curate some content on Github, including my [General Workflow Paradigm](https://t.me/isaiahsystem/756), it's split into three repositories: [feed-garden](https://github.com/404KSG/feed-garden), [all-about-digital-garden](https://github.com/404KSG/all-about-digital-garden), and [prompt-garden](https://github.com/404KSG/prompt-garden) for AI. And more:
+
+- [ai-humanities](https://github.com/404KSG/ai-humanities)
+- [space-odyssey](https://github.com/404KSG/space-odyssey)
+- [academic-combo](https://github.com/404KSG/academic-combo)
+- [productivity-combo](https://github.com/404KSG/productivity-combo)
 
 #
 <div class="img-container">
