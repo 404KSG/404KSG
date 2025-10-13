@@ -11,12 +11,6 @@
 - ⚡ [productivity-combo](https://github.com/404KSG/productivity-combo)
 - ⚡ [academic-combo](https://github.com/404KSG/academic-combo)
 
-#
-<div class="img-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=404KSG&show_icons=true&theme=white&card_width=400" alt="404KSG's GitHub stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=404KSG&theme=white&card_width=400" alt="GitHub Streak" /></a>
-</div>
-
 ## Contact and Support
 
 <p align="left">
