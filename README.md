@@ -1,4 +1,4 @@
-# 404 [[ ]] KIDS SEE GHOSTS
+# 404 KIDS SEE GHOSTS
 
 <p align="left"><img src="https://count.getloli.com/get/@:404KSG?theme=rule34" width="400"></p><br>
   
