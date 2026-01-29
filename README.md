@@ -4,13 +4,6 @@
   
 **`A TIME TRAVELER FROM THE FUTURE`**
 
-**I'm interested in science, society, art and what's between them. I curate some content on Github, including my [General Workflow Paradigm](https://t.me/isaiahsystem/756), it's split into three repositories: [feed-garden](https://github.com/404KSG/feed-garden), [all-about-digital-garden](https://github.com/404KSG/all-about-digital-garden), and [prompt-garden](https://github.com/404KSG/prompt-garden) for AI. And more:**
-
-- 🤖 [ai-humanities](https://github.com/404KSG/ai-humanities)
-- 👩‍🚀 [space-odyssey](https://github.com/404KSG/space-odyssey)
-- ⚡ [productivity-combo](https://github.com/404KSG/productivity-combo)
-- ⚡ [academic-combo](https://github.com/404KSG/academic-combo)
-
 ## Contact and Support
 
 <p align="left">
